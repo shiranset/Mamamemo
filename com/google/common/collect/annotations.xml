@@ -1,0 +1,5 @@
+<root>
+    <item name='com.google.common.collect.ImmutableCollection'>
+        <annotation name='org.jetbrains.annotations.Nullable' />
+    </item>
+</root>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="action_person_new">New</string>
+    <string name="action_person_edit">Edit</string>
+    <string name="action_person_delete">Delete</string>
+
+    <string name="person_cfg_name">Name</string>
+
+    <string name="person_cfg_done">Done</string>
+    <string name="person_cfg_delete">"Delete"</string>
+    <string name="person_cfg_cancel">"Cancel"</string>
+    <string name="person_info">"Info"</string>
+    <string name="person_memos">"Memos"</string>
+    <string name="action_memo_new">New Memo</string>
+    <string name="memo_cfg_action_edit">Edit</string>
+    <string name="memo_cfg_action_delete">Delete</string>
+    <string name="memo_cfg_action_update">Update</string>
+    <string name="memo_cfg_action_cancel">Cancel</string>
+    <string name="memo_cfg_person">Person</string>
+    <string name="memo_cfg_post">Post</string>
+    <string name="memo_cfg_done">Done</string>
+</resources>
